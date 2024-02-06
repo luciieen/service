@@ -64,6 +64,10 @@ a {
   transition: 2s;
 }
 
+.fa-house {
+  font-size: 30px;
+}
+
 .cont2 {
   padding: 20px;
   display: flex;
