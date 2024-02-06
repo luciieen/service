@@ -52,6 +52,18 @@ a {
 
 /* conrtainer 2 */
 
+.home {
+  background-color: rgb(163, 163, 163);
+  padding: 10px 70px 10px 10px;
+  border-radius: 0px 30px 30px 0px;
+  margin-left: -240px;
+}
+
+.home:hover {
+  margin-left: -140px;
+  transition: 2s;
+}
+
 .cont2 {
   padding: 20px;
   display: flex;
