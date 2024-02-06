@@ -125,6 +125,9 @@ h1 {
   align-items: start;
   margin-left: 200px;
   gap: 100px;
+  margin: -8px;
+  padding: 40px 250px;
+  background-color: rgb(241, 241, 241);
 }
 
 table,
