@@ -72,6 +72,8 @@ a {
 }
 
 .cont2 {
+  margin: -8px;
+  margin-top: -15px;
   padding: 20px;
   display: flex;
   flex-direction: row;
