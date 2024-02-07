@@ -99,6 +99,7 @@ a {
 .nav {
   font-size: 18px;
   position: relative;
+  color: white;
 }
 
 .nav::after {
@@ -110,7 +111,7 @@ a {
   height: 4px;
   margin-bottom: -3px;
   background-color: #000000;
-  background: linear-gradient(120deg, transparent, #000000, transparent);
+  background: linear-gradient(120deg, transparent, #00fffc, transparent);
   transform: scaleX(0);
   transition: 0.5s;
 }
